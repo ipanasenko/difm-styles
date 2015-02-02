@@ -1,0 +1,6 @@
+@-moz-document domain("di.fm") {
+	#panel-container #panel-ad,
+	#panel-container #panel-ad.panel.forced {
+		display: none !important;
+	}
+}
